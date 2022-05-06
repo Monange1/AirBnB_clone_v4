@@ -150,16 +150,5 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
-No known bugs at this time.
-
-## contribution
-Make an API for the AirBnB
-
-## Authors
-* Kaleab Tesfaye - [Github](https://github.com/kalom60)
-* Anteneh Bizuneh - [Github](https://github.com/Anteneh2121) 
-
-
 ## License
 Public Domain. No copy write protection.
